@@ -1,0 +1,2 @@
+# TitanicSurvivalPrediction
+Refined the data and split into training and test sets, handled missing values and conducted uni-variate and bi-variate analysis. Applied the concept of feature engineering in creating new columns and evaluated model accuracy using confusion matrix. Built models using various classification algos and made predictions for the same while handling overfitting issues wherever possible.
